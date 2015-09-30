@@ -4,10 +4,10 @@ title: Coding Quality First | codingfirst.org
 tagline: Learn > Build > Share
 email: codingfirst@yahoo.com
 copyright: Coding First
-keywords: open source,coding,coding first
+keywords: open source, coding, coding first
 
 description: > # this means to ignore newlines until "url:". One indent required.
-Coding quality first.
+  Coding quality first.
 
 # the base hostname & protocol for your site
 url: "http://codingfirst.org"
