@@ -69,7 +69,7 @@ mapbox: "pk.eyJ1Ijoib3BlbnRoZW1lIiwiYSI6ImNIWC1LTUUifQ.vq4k3nfTeTtDAk7eLCrVAw"
 facebook_app: "390272554479803" # https://developers.facebook.com/
 
 mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
-mailchimp_id: "3a51637dcc" # Mailchip id
+mailchimp_id: "51bf78bfe8" # Mailchip id
 
 addthis_pubid: "ra-54a66cfa35915034" # Get your pubid at https://www.addthis.com/dashboard
 
