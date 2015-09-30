@@ -7,6 +7,7 @@ tags: maps embeds
 image: /img/embed/map.png
 ---
 
+Hello World Update
 You can embed Google maps using custom embed created for OpenTheme. 
 
 Just provide the location in url escaped format. Specify custom height for the map viewer, otherwise site default is taken.
